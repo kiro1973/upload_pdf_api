@@ -1,0 +1,5 @@
+rover_coords :# Define a function to convert from image coords to rover coords
+impose_range: beygib el pixels el 3ala bo3d 8 meter bas
+5) line 136 perception.py
+kol wahda betkhosh 3ala channel lon wel 255 bteddi el value kamla le ce kol channel ya3ni maslan ahmar 0-> hayeb2a 3andaha 255 fel R 
+line 173:benshil men el navigable pixels el values el fe channel 0 ya3ni msh 3ayzin ahmar fel navigable pixels ya3ni ay haga navigable mateb2ash fel obstacle channel
